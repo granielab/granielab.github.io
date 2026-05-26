@@ -1,0 +1,7 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0B3A53"/><stop offset="1" stop-color="#2CA6A4"/></linearGradient></defs>
+<rect width="220" height="220" rx="48" fill="url(#g)"/>
+<path d="M55 120 C75 70, 95 70, 110 120 S145 170,165 90" fill="none" stroke="white" stroke-width="11" stroke-linecap="round"/>
+<circle cx="110" cy="110" r="55" fill="none" stroke="rgba(255,255,255,.35)" stroke-width="8"/>
+<text x="110" y="190" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="white">DeepSync</text>
+</svg>
