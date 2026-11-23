@@ -6,6 +6,7 @@ Professional GitHub Pages website package for Graniela Engineering & Analytics, 
 - `index.html` — home page
 - `applications.html` — applications overview
 - `deepsync.html` — DeepSync app page
+- `deepsync-support.html` — DeepSync onboarding and support page
 - `echolingua.html` — EchoLingua app page
 - `innovation.html` — innovation areas
 - `privacy.html` — privacy policy
